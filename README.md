@@ -9,4 +9,4 @@ optimize the neural network during training by introducing an extra set of targe
 The proposed method achieves favorable performance against state-of-the-art approaches on five challenging datasets: ShanghaiTech A and B, UCF-QNRF, JHU-CROWD++, and NWPU-Crowd.
 
 
-This method n NWPU-Crowd is listed with the name APN. https://www.crowdbenchmark.com/nwpucrowdloc.html
+This method on NWPU-Crowd is listed with the name APN. https://www.crowdbenchmark.com/nwpucrowdloc.html
