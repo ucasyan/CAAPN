@@ -8,7 +8,4 @@ The LAM module is designed to augment the predictions which are used to
 optimize the neural network during training by introducing an extra set of target candidates and correctly matching them to the ground truth.
 The proposed method achieves favorable performance against state-of-the-art approaches on five challenging datasets: ShanghaiTech A and B, UCF-QNRF, JHU-CROWD++, and NWPU-Crowd.
 
-
-This method on NWPU-Crowd is listed with the name APN. https://www.crowdbenchmark.com/nwpucrowdloc.html
-
 The code and model will be released soon. 
